@@ -157,10 +157,10 @@ with col2:
     col_a, col_b = st.columns(2)
     with col_a:
         if st.button("🦥 Diabetes Predictor"):
-            st.switch_page("pages/Diabetes_Predictor.py")
+            st.switch_page("Diabetes_Predictor.py")
     with col_b:
         if st.button("🎗️ Breast Cancer Check"):
-            st.switch_page("pages/Breast_Cancer_Predictor.py")
+            st.switch_page("Breast_Cancer_Predictor.py")
 
 # ---- ICON CARDS ----
 st.markdown("""
