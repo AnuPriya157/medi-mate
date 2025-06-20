@@ -40,7 +40,7 @@ def custom_sidebar():
     with st.sidebar:
         st.markdown("## 🧭 Navigation", unsafe_allow_html=True)
 
-        st.page_link("Home.py", label=" Home", icon="🏠")
+        st.page_link("HOME.py", label=" Home", icon="🏠")
         st.page_link("pages/Breast_Cancer_Predictor.py", label=" Breast Cancer Predictor", icon="🎗️")
         st.page_link("pages/Diabetes_Predictor.py", label=" Diabetes Predictor", icon="🩺")
 
