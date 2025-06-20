@@ -1,0 +1,20 @@
+{
+    "anshraj": {
+        "name": "Ansh Raj",
+        "email": "priyaanu15796@gmail.com",
+        "phone": "7761980808",
+        "username": "anshraj",
+        "password": "ansh123",
+        "age": 7,
+        "gender": "Male"
+    },
+    "anupriya": {
+        "name": "Anu Priya",
+        "email": "anumishra15796@gmail.com",
+        "phone": "9534176347",
+        "username": "anupriya",
+        "password": "anup123",
+        "age": 29,
+        "gender": "Female"
+    }
+}
